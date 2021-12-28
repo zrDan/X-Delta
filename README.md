@@ -2,7 +2,7 @@
 
 Sneakers e-commerce demo<BR>
   
-![web](https://user-images.githubusercontent.com/42875282/92638886-a11ddf00-f2a0-11ea-8392-68f65b802ff3.png) &nbsp; [Demo](http://xdelta.gtdan.com)
+![web](https://user-images.githubusercontent.com/42875282/92638886-a11ddf00-f2a0-11ea-8392-68f65b802ff3.png) &nbsp; [Demo](https://xdelta.netlify.app/)
 
 ## Technologies
 
